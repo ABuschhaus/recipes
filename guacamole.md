@@ -2,7 +2,7 @@
 # Guacamole
 
 ## Ingredients
-*avocado
-*lime
-*salt
+*avocado  1
+*lime     0.33 
+*salt     na
 ## Instructions
